@@ -117,7 +117,7 @@ module.exports = {
                 loliImage = ('https://i.ibb.co/xFPxYJ4/1696842103760.jpg')
                 break; 
             case 28: 
-                loliName = 'Little Rapunzel'
+                loliName = 'a Little Princess'
                 loliImage = ('https://i.ibb.co/HHT2Nxg/1696841925967.jpg')
                 break;
             case 29: 
@@ -549,7 +549,7 @@ module.exports = {
                 loliImage = ('https://i.ibb.co/TrbynV0/20e86b8e2e15b111046054e077a2ec30.jpg')
                 break;
             case 137: 
-                loliName = 'a Angel'
+                loliName = 'Angel'
                 loliImage = ('https://i.ibb.co/WKcsv82/thumb-1920-456957.jpg')
                 break;
             case 138: 
@@ -705,7 +705,7 @@ module.exports = {
                 loliImage = ('https://i.ibb.co/7XfnnJK/7558bc0172a44d55a23f4e3ef8c542c6-1.jpg')
                 break;
             case 176:
-                loliName = 'Angel'
+                loliName = 'Angel' 
                 loliImage = ('https://i.ibb.co/Z6RQqJs/40505c2e5bdd4286a5e9191363a2e17a.jpg')
                 break;
             case 177:
