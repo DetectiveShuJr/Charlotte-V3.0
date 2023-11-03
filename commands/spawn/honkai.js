@@ -206,52 +206,52 @@ module.exports = {
             case 40:
                 valkyrieName = 'the Twins'
                 valkyrieImage = ('https://i.ibb.co/SNKt3Y4/Screenshot-20210419-180636-Reddit.jpg')
-                valkyrieNumber = '40'
+                valkyrieNumber = '#40'
                 break;
             case 41:
                 valkyrieName = 'Rita'
                 valkyrieImage = ('https://i.ibb.co/PC6NGRb/Screenshot-20210404-194842-Honkai-Impact-3rd.jpg')
-                valkyrieNumber = '41'
+                valkyrieNumber = '#41'
                 break;
             case 42:
                 valkyrieName = 'Bronya 💙 Seele'
                 valkyrieImage = ('https://i.ibb.co/LPJmjcz/Seele-and-Bronya.jpg')
-                valkyrieNumber = '42'
+                valkyrieNumber = '#42'
                 break;
             case 43:
                 valkyrieName = 'Ai-chan...?'
                 valkyrieImage = ('https://i.ibb.co/y4rzhzw/Screenshot-20210401-171845-You-Tube.jpg')
-                valkyrieNumber = '43'
+                valkyrieNumber = '#43'
                 break;
             case 44:
                 valkyrieName = 'Theresa!'
                 valkyrieImage = ('https://i.ibb.co/cxjWV8q/Screenshot-20210330-164006-You-Tube.jpg')
-                valkyrieNumber = '44'
+                valkyrieNumber = '#44'
                 break;
             case 45:
                 valkyrieName = 'Kiana!'
                 valkyrieImage = ('https://i.ibb.co/prYZk9r/e2078cb.jpg')
-                valkyrieNumber = '45'
+                valkyrieNumber = '#45'
                 break;
             case 46:
                 valkyrieName = 'Senti'
                 valkyrieImage = ('https://i.ibb.co/1J233Fk/20210214-215931.png')
-                valkyrieNumber = '46'
+                valkyrieNumber = '#46'
                 break;
             case 47:
                 valkyrieName = 'Bronya with her friends🌃'
                 valkyrieImage = ('https://i.ibb.co/D9smGzq/Screenshot-20210217-171415-Honkai-Impact-3rd.jpg')
-                valkyrieNumber = '47'
+                valkyrieNumber = '#47'
                 break;
             case 48:
                 valkyrieName = 'Mei'
                 valkyrieImage = ('https://i.ibb.co/j53dDsb/2019112119281528204-1.jpg')
-                valkyrieNumber = '48'
+                valkyrieNumber = '#48'
                 break;
             case 49:
                 valkyrieName = 'Starlit!'
                 valkyrieImage = ('https://i.ibb.co/rkVHpSH/bd37ye1am4151-1.jpg')
-                valkyrieNumber = '49'
+                valkyrieNumber = '#49'
                 break;
             case 50:
                 valkyrieName = 'Starlit!'
@@ -2006,336 +2006,336 @@ module.exports = {
             case 400:
                 valkyrieName = 'Christmas present Seele💘'
                 valkyrieImage = ('https://i.ibb.co/LYcXvzp/image0-104.jpg')
-                valkyrieNumber = '400'
+                valkyrieNumber = '#400'
                 break;
             case 401:
                 valkyrieName = 'GGZ Seele'
                 valkyrieImage = ('https://i.ibb.co/YTqdPPZ/image0-105.jpg')
-                valkyrieNumber = '401'
+                valkyrieNumber = '#401'
                 break;
             case 402:
                 valkyrieName = 'the main Squad and Veli'
                 valkyrieImage = ('https://i.ibb.co/gjmnTjZ/image0-107.jpg')
-                valkyrieNumber = '402'
+                valkyrieNumber = '#402'
                 break;
             case 403:
                 valkyrieName = 'Seele\'s birthday celebration'
                 valkyrieImage = ('https://i.ibb.co/Rpwzbyn/image0-117.jpg')
-                valkyrieNumber = '403'
+                valkyrieNumber = '#403'
                 break;
             case 404:
                 valkyrieName = 'Seele💜'
                 valkyrieImage = ('https://i.ibb.co/G05w8fH/image0-128.jpg')
-                valkyrieNumber = '404'
+                valkyrieNumber = '#404'
                 break;
             case 405:
                 valkyrieName = 'Bronya 🌸 Seele'
                 valkyrieImage = ('https://i.ibb.co/nC9X660/image0-132.jpg')//come back later
-                valkyrieNumber = '405'
+                valkyrieNumber = '#405'
                 break;
             case 406:
                 valkyrieName = 'a look into a parallel universe🦋'
                 valkyrieImage = ('https://i.ibb.co/WWNG2wB/image0-145.jpg')
-                valkyrieNumber = '406'
+                valkyrieNumber = '#406'
                 break;
             case 407:
                 valkyrieName = 'An old spring photo of Bronya and Seele'
                 valkyrieImage = ('https://i.ibb.co/mvk0C6Z/image0-153.jpg') 
-                valkyrieNumber = '407'
+                valkyrieNumber = '#407'
                 break;
             case 408:
                 valkyrieName = 'Seele🌸'
                 valkyrieImage = ('https://i.ibb.co/Lgj9b5J/image0-154.jpg')
-                valkyrieNumber = '408'
+                valkyrieNumber = '#408'
                 break;
             case 409:
                 valkyrieName = 'Little Seele💙'
                 valkyrieImage = ('https://i.ibb.co/0hM6shB/image0-157.jpg') 
-                valkyrieNumber = '408'
+                valkyrieNumber = '#408'
                 break;
             case 410:
                 valkyrieName = 'Seele and her best friend🌙'
                 valkyrieImage = ('https://i.ibb.co/xYyFSwq/image0-166.jpg')
-                valkyrieNumber = '410'
+                valkyrieNumber = '#410'
                 break;
             case 411:
                 valkyrieName = 'Bronya and Seele going on a date🍨'
                 valkyrieImage = ('https://i.ibb.co/TqpgDNw/image0-192.jpg') 
-                valkyrieNumber = '411'
+                valkyrieNumber = '#411'
                 break;
             case 412:
                 valkyrieName = 'Cecilia🎶'
                 valkyrieImage = ('https://i.ibb.co/VLf2vPR/PSa-Vb-BNwq7-MBJFtx7-VIGCT7omx-Pt-XF7-Qc-Cys-DXwh5-EQ.png')
-                valkyrieNumber = '412'
+                valkyrieNumber = '#412'
                 break;
             case 413:
                 valkyrieName = 'Kiana'
                 valkyrieImage = ('https://i.ibb.co/ZGzhMzq/SPOILER-70b02c2ed749bfc66878ba9af99085a4-2143881707999980272.png')
-                valkyrieNumber = '413'
+                valkyrieNumber = '#413'
                 break;
             case 414:
                 valkyrieName = 'Kiana'
                 valkyrieImage = ('https://i.ibb.co/d4TrNPp/SPOILER-90890218-p0.png')
-                valkyrieNumber = '414'
+                valkyrieNumber = '#414'
                 break;
             case 415:
                 valkyrieName = 'Kiana🌅'
                 valkyrieImage = ('https://i.ibb.co/42b1qst/SPOILER-90890993-p0.png')
-                valkyrieNumber = '415'
+                valkyrieNumber = '#415'
                 break;
             case 416:
                 valkyrieName = 'Kiana'
                 valkyrieImage = ('https://i.ibb.co/HNLzWTM/SPOILER-illust-90841545-20210627-114359.jpg')
-                valkyrieNumber = '416'
+                valkyrieNumber = '#416'
                 break;
             case 417:
                 valkyrieName = 'Kiana🦋'
                 valkyrieImage = ('https://i.ibb.co/wdwxxbg/SPOILER-illust-90857515-20210628-073106.jpg')
-                valkyrieNumber = '417'
+                valkyrieNumber = '#417'
                 break;
             case 418:
                 valkyrieName = 'Daddy\'s Little Angel💍'
                 valkyrieImage = ('https://i.ibb.co/NFdqYx7/image0.jpg')
-                valkyrieNumber = '418'
+                valkyrieNumber = '#418'
                 break;
             case 419:
                 valkyrieName = 'a wedding photo💒'
                 valkyrieImage = ('https://i.ibb.co/cxW13QV/image1.jpg')
-                valkyrieNumber = '419'
+                valkyrieNumber = '#419'
                 break;
             case 420:
                 valkyrieName = 'The flamechasers'
                 valkyrieImage = ('https://i.ibb.co/mS0CThg/0b19af7978fa2538a65e2c6dfb7f5f031622782753706.jpg')
-                valkyrieNumber = '420'
+                valkyrieNumber = '#420'
                 break;
             case 421:
                 valkyrieName = 'Veli teasing Seele'
                 valkyrieImage = ('https://i.ibb.co/zF82Hng/2c935c41f4fadcde1ad7ac21b77f88c1.jpg')
-                valkyrieNumber = '421'
+                valkyrieNumber = '#421'
                 break;
             case 422:
                 valkyrieName = 'Veli💖'
                 valkyrieImage = ('https://i.ibb.co/s5rfzMN/2d7be5c16b570f3c43b6cc11514a0304.png')
-                valkyrieNumber = '422'
+                valkyrieNumber = '#422'
                 break;
             case 423:
                 valkyrieName = 'Seele, playnight version💘'
                 valkyrieImage = ('https://i.ibb.co/Qm4MmQK/2e020805d3bd57c0e40bfb221dd7d610.png')
-                valkyrieNumber = '423'
+                valkyrieNumber = '#423'
                 break;
             case 424:
                 valkyrieName = 'Theresa and Himeko babysitting training'
                 valkyrieImage = ('https://i.ibb.co/1XrKr1c/3e9f7a9ce1a6f380273f08e2aba37048.jpg')
-                valkyrieNumber = '424'
+                valkyrieNumber = '#424'
                 break;
             case 425:
                 valkyrieName = 'Bronya and Seele enjoying the fall🍂'
                 valkyrieImage = ('https://i.ibb.co/3m3mBgK/3ef5cbb713f8417404909aa2ebab6df7.png')
-                valkyrieNumber = '425'
+                valkyrieNumber = '#425'
                 break;
             case 426:
                 valkyrieName = 'Mom drinking, "Once in a blue moon?"'
                 valkyrieImage = ('https://i.ibb.co/jHm2yFr/05cb383ad3e5b74fd2644af19b68b30b.jpg')
-                valkyrieNumber = '426'
+                valkyrieNumber = '#426'
                 break;
             case 427:
                 valkyrieName = 'Veli💖'
                 valkyrieImage = ('https://i.ibb.co/KqtRpRs/8d5a5c270a99279ceb94065b85bf274a.jpg')
-                valkyrieNumber = '427'
+                valkyrieNumber = '#427'
                 break;
             case 428:
                 valkyrieName = 'Veli'
                 valkyrieImage = ('https://i.ibb.co/XJNkSdK/19e0677cc82f52a1fcc2fe5e28ac2869.jpg')
-                valkyrieNumber = '428'
+                valkyrieNumber = '#428'
                 break;
             case 429:
                 valkyrieName = 'Adult HoR Bronya💙'
                 valkyrieImage = ('https://i.ibb.co/2PK9YK6/69a52dca771bfee2163fcdc776f4ed35.jpg')
-                valkyrieNumber = '429'
+                valkyrieNumber = '#429'
                 break;
             case 430:
                 valkyrieName = 'Fu Hua🌧️'
                 valkyrieImage = ('https://i.ibb.co/yX9jRD5/85ccc6cde5d12ac96029d19ae67b44b21628922135350.jpg')
-                valkyrieNumber = '430'
+                valkyrieNumber = '#430'
                 break;
             case 431:
                 valkyrieName = 'two love birds living together🎮💙'
                 valkyrieImage = ('https://i.ibb.co/VjnNYjQ/137b3c44f82f86a4ff92955ece019eec.jpg')
-                valkyrieNumber = '431'
+                valkyrieNumber = '#431'
                 break;
             case 432:
                 valkyrieName = 'MiHoYO Seele'
                 valkyrieImage = ('https://i.ibb.co/0D8b4ZN/671ed7cff6af9e1abe0ccfb627574f5d.jpg')
-                valkyrieNumber = '432'
+                valkyrieNumber = '#432'
                 break;
             case 433:
                 valkyrieName = 'Bronya and Seele, looking into the stars🌃'
                 valkyrieImage = ('https://i.ibb.co/4JwGS8T/26497e08c70e31b58bd365029373284d.jpg')
-                valkyrieNumber = '433'
+                valkyrieNumber = '#433'
                 break;
             case 434:
                 valkyrieName = 'Veli, taking over Seele\'s body'
                 valkyrieImage = ('https://i.ibb.co/7tmFS0z/053494e89396444a6640ddf82a1dc778.png')
-                valkyrieNumber = '434'
+                valkyrieNumber = '#434'
                 break;
             case 435:
                 valkyrieName = 'our honeymoon photo, lights out🔦💗'
                 valkyrieImage = ('https://i.ibb.co/F5h0JR2/69451aa51d6a7f0e16c6a9dbfb6ef2b0.png')
-                valkyrieNumber = '435'
+                valkyrieNumber = '#435'
                 break;
             case 436:
                 valkyrieName = 'Bronya leading the spooky season🧡' 
                 valkyrieImage = ('https://i.ibb.co/brHGMLb/3192429bdf18261f2e122d81009f5df1.jpg')
-                valkyrieNumber = '436'
+                valkyrieNumber = '#436'
                 break;
             case 437:
                 valkyrieName = 'Bronya and Seele'
                 valkyrieImage = ('https://i.ibb.co/c8tJyTb/80493955-p1-master1200.webp')
-                valkyrieNumber = '437'
+                valkyrieNumber = '#437'
                 break;
             case 438:
                 valkyrieName = 'a JoJ- Ha! You expected Kiana but it is I, Durandal!'
                 valkyrieImage = ('https://i.ibb.co/gdJbpfg/81429861-p0-master1200.webp')
-                valkyrieNumber = '438'
+                valkyrieNumber = '#438'
                 break;
             case 439:
                 valkyrieName = 'Kiana saving Mei🍑'
                 valkyrieImage = ('https://i.ibb.co/QnjVqKm/81580036-p0-master1200.webp')
-                valkyrieNumber = '439'
+                valkyrieNumber = '#439'
                 break;
             case 440:
                 valkyrieName = 'Little Seele!'
                 valkyrieImage = ('https://i.ibb.co/ZK84c6y/82049218-p0-master1200.webp')
-                valkyrieNumber = '440'
+                valkyrieNumber = '#440'
                 break;
             case 441:
                 valkyrieName = 'modern day Seele'
                 valkyrieImage = ('https://i.ibb.co/BZCc0bt/82467485-p0-master1200.webp')
-                valkyrieNumber = '441'
+                valkyrieNumber = '#441'
                 break;
             case 442:
                 valkyrieName = 'Bronya and Seele, taking a night scroll🌙'
                 valkyrieImage = ('https://i.ibb.co/bmBwpP5/83955757-p0-master1200.webp')
-                valkyrieNumber = '442'
+                valkyrieNumber = '#442'
                 break;
             case 443:
                 valkyrieName = 'the moment it all changed forever💘🔓'
                 valkyrieImage = ('https://i.ibb.co/7CMrPYW/84099084-p0-master1200.webp')
-                valkyrieNumber = '443'
+                valkyrieNumber = '#443'
                 break;
             case 444:
                 valkyrieName = 'Bronya and Seele❤️'
                 valkyrieImage = ('https://i.ibb.co/ZgPJTQj/84173385-p1-master1200.webp')
-                valkyrieNumber = '444'
+                valkyrieNumber = '#444'
                 break;
             case 445:
                 valkyrieName = 'the Seele mom hates'
                 valkyrieImage = ('https://i.ibb.co/Dr7hmL0/84326064-p0-master1200.webp')
-                valkyrieNumber = '445'
+                valkyrieNumber = '#445'
                 break;
             case 446:
                 valkyrieName = 'Little Seele!'
                 valkyrieImage = ('https://i.ibb.co/hBxLMrK/84709790-p0-master1200.webp')
-                valkyrieNumber = '446'
+                valkyrieNumber = '#446'
                 break;
             case 447:
                 valkyrieName = 'Bronya and "Seele" preparing for halloween🧡'
                 valkyrieImage = ('https://i.ibb.co/DW5Cb8r/85514202-p0-master1200.webp')
-                valkyrieNumber = '447'
+                valkyrieNumber = '#447'
                 break;
             case 448:
                 valkyrieName = 'sleeping Beauty and her Prince💙'
                 valkyrieImage = ('https://i.ibb.co/K02vKsF/85960529-p2-master1200.webp')
-                valkyrieNumber = '448'
+                valkyrieNumber = '#448'
                 break;
             case 449:
                 valkyrieName = 'mom on the 13th🔐'
                 valkyrieImage = ('https://i.ibb.co/rGDxwNK/86290723-p3-master1200.webp')
-                valkyrieNumber = '449'
+                valkyrieNumber = '#449'
                 break;
             case 450:
                 valkyrieName = 'Seele'
                 valkyrieImage = ('https://i.ibb.co/Ky35BmY/86290723-p4-master1200.webp')
-                valkyrieNumber = '450'
+                valkyrieNumber = '#450'
                 break;
             case 451:
                 valkyrieName = 'Seele and Veli🌹'
                 valkyrieImage = ('https://i.ibb.co/QYBkWNW/86460624-p0-master1200.webp')
-                valkyrieNumber = '451'
+                valkyrieNumber = '#451'
                 break;
             case 452:
                 valkyrieName = 'Gorgeous Seele🦋💙'
                 valkyrieImage = ('https://i.ibb.co/hmjM6MC/86761127-p0-master1200.webp')
-                valkyrieNumber = '452'
+                valkyrieNumber = '#452'
                 break;
             case 453:
                 valkyrieName = 'Fu Hua'
                 valkyrieImage = ('https://i.ibb.co/zWc2scf/87681842-p0-master1200.webp')
-                valkyrieNumber = '453'
+                valkyrieNumber = '#453'
                 break;
             case 454:
                 valkyrieName = 'singing Seele'
                 valkyrieImage = ('https://i.ibb.co/b67H7dT/88402406-p0-master1200.webp')
-                valkyrieNumber = '454'
+                valkyrieNumber = '#454'
                 break;
             case 455:
                 valkyrieName = 'a look into Seele\'s dream💍'
                 valkyrieImage = ('https://i.ibb.co/5sB8VbF/88993870-p0-master1200.webp')
-                valkyrieNumber = '455'
+                valkyrieNumber = '#455'
                 break;
             case 456:
                 valkyrieName = 'Elysia💖'
                 valkyrieImage = ('https://i.ibb.co/CsS18FR/RDT-20220804-1339154560838344018765802.webp')
-                valkyrieNumber = '456'                
+                valkyrieNumber = '#456'                
             case 457:
                 valkyrieName = 'Veli❤️'
                 valkyrieImage = ('https://i.ibb.co/dKv6vzM/89085497-p0-master1200.webp')
-                valkyrieNumber = '457'
+                valkyrieNumber = '#457'
                 break;
             case 458:
                 valkyrieName = 'Seele💙'
                 valkyrieImage = ('https://i.ibb.co/KrphMJR/90042136-p0-master1200.webp')
-                valkyrieNumber = '458'
+                valkyrieNumber = '#458'
                 break;
             case 459:
                 valkyrieName = 'Kiana'
                 valkyrieImage = ('https://i.ibb.co/9THqjrm/90979884-p0-master1200.webp')
-                valkyrieNumber = '459'
+                valkyrieNumber = '#459'
                 break;
             case 460:
                 valkyrieName = 'veli🥀🖤'
                 valkyrieImage = ('https://i.ibb.co/4J1Y3ts/91111125-p0-master1200.webp')
-                valkyrieNumber = '460'
+                valkyrieNumber = '#460'
                 break;
             case 461:
                 valkyrieName = 'A look into new years, 2024💙🌙'
                 valkyrieImage = ('https://i.ibb.co/zG2b5MC/91957308-p0-master1200.png')
-                valkyrieNumber = '461'
+                valkyrieNumber = '#461'
                 break;
             case 462:
                 valkyrieName = 'Dad coming in for another🌃💘'
                 valkyrieImage = ('https://i.ibb.co/rG167v1/91966228-p3-master1200.webp')
-                valkyrieNumber = '462'
+                valkyrieNumber = '#462'
                 break;
             case 463:
                 valkyrieName = 'Seele and Veli💞'
                 valkyrieImage = ('https://i.ibb.co/KXc2dH1/91966228-p4-master1200.webp')
-                valkyrieNumber = '463'
+                valkyrieNumber = '#463'
                 break;
             case 464:
                 valkyrieName = 'Bronya💙'
                 valkyrieImage = ('https://i.ibb.co/9gbQYtN/92077165-p0-master1200.webp')
-                valkyrieNumber = '464'
+                valkyrieNumber = '#464'
                 break;
             case 465:
                 valkyrieName = 'smiling Magical Girl Seele💜'
                 valkyrieImage = ('https://i.ibb.co/xCt5Drh/92420189-p0-master1200.webp')
-                valkyrieNumber = '465'
+                valkyrieNumber = '#465'
                 break;
             case 466:
                 valkyrieName = 'the modern day main squad'
                 valkyrieImage = ('https://i.ibb.co/ZKSfT44/a479fe03622a5376564e21086532f910.png')
-                valkyrieNumber = '466'
+                valkyrieNumber = '#466'
                 break;
             case 467:
                 valkyrieName = 'FS heading to eat at the train🚅'
@@ -2345,147 +2345,147 @@ module.exports = {
             case 468:
                 valkyrieName = 'a crossover'
                 valkyrieImage = ('https://i.ibb.co/xJpyjWX/bcb5c22fd103444a22431053dde873601623372886780.jpg')
-                valkyrieNumber = '468'
+                valkyrieNumber = '#468'
                 break;
             case 469:
                 valkyrieName = 'a troll! Sucker'
                 valkyrieImage = ('https://i.ibb.co/mJwXfH4/By-ONKd7w-W.gif')
-                valkyrieNumber = '469'
+                valkyrieNumber = '#469'
                 break;
             case 470:
                 valkyrieName = 'a flashback of when Bronya got arrested'
                 valkyrieImage = ('https://i.ibb.co/wBMs3qb/cb4cb3dc3bccef989cb32d1ed6e12a0b.jpg')
-                valkyrieNumber = '470'
+                valkyrieNumber = '#470'
                 break;
             case 471:
                 valkyrieName = 'Bronya and Seele eating breakfast'
                 valkyrieImage = ('https://i.ibb.co/qDpLmPD/db11a6589ef029190c92027b6f0a9de7.png')
-                valkyrieNumber = '471'
+                valkyrieNumber = '#471'
                 break;
             case 472:
                 valkyrieName = 'younger Bronya and Seele, foot fetish edition'
                 valkyrieImage = ('https://i.ibb.co/rsNNjt4/e477172cd292255fd82634348365a24f.jpg')
-                valkyrieNumber = '472'
+                valkyrieNumber = '#472'
                 break;
             case 473:
                 valkyrieName = 'adorable Seele💜'
                 valkyrieImage = ('https://i.ibb.co/Y4S7QZB/ebc525a9aa05338b0a3d98b7ae966faa.png')
-                valkyrieNumber = '473'
+                valkyrieNumber = '#473'
                 break;
             case 474:
                 valkyrieName = 'Veli and evil Bronya'
                 valkyrieImage = ('https://i.ibb.co/C9mkTxX/sample-bb03dd9eb5a325f1d66c3c34d76b4b74.jpg')
-                valkyrieNumber = '474'
+                valkyrieNumber = '#474'
                 break;
             case 475:
                 valkyrieName = 'Veli❤️'
                 valkyrieImage = ('https://i.ibb.co/jwGz7QP/image0-21.jpg')
-                valkyrieNumber = '475'
+                valkyrieNumber = '#475'
                 break;
             case 476:
                 valkyrieName = 'Seele💜'
                 valkyrieImage = ('https://i.ibb.co/k9Dpkyx/EC1-CJDi-VUAAn389-jpg-large.jpg')
-                valkyrieNumber = '476'
+                valkyrieNumber = '#476'
                 break;
             case 477:
                 valkyrieName = 'Seele'
                 valkyrieImage = ('https://i.ibb.co/PMgDh1Y/image0-63.jpg')
-                valkyrieNumber = '477'
+                valkyrieNumber = '#477'
                 break;
             case 478:
                 valkyrieName = 'Sirin'
                 valkyrieImage = ('https://i.ibb.co/KDQZD24/Untitled1216-20210629172931.png')
-                valkyrieNumber = '478'
+                valkyrieNumber = '#478'
                 break;
             case 479:
                 valkyrieName = 'Bronya 💙 Seele'
                 valkyrieImage = ('https://i.ibb.co/Y8vF6hs/bronya-zaychik-and-seele-vollerei-honkai-and-1-more-drawn-by-nasubi-1ra1ri1ko2cho1mi2na-299bc6de0e45.png')
-                valkyrieNumber = '479'
+                valkyrieNumber = '#479'
                 break;
             case 480:
                 valkyrieName = 'Bronya and Seele🏮🌃'
                 valkyrieImage = ('https://i.ibb.co/k2tM0nY/bronya-zaychik-and-seele-vollerei-honkai-and-2-more-drawn-by-mimengfeixue-393e4480e8edcafb7e4ddfcfac.png')
-                valkyrieNumber = '480'
+                valkyrieNumber = '#480'
                 break;
             case 481:
                 valkyrieName = 'Hacker Bronie💙'
                 valkyrieImage = ('https://i.ibb.co/107MrqP/bronya-zaychik-homu-and-bronya-zaychik-honkai-and-1-more-3d237c9973bca8e0b80830bfc2577ccc.jpg')
-                valkyrieNumber = '481'
+                valkyrieNumber = '#481'
                 break;
             case 482:
                 valkyrieName = 'Evil Bronya ❤️ Veli'
                 valkyrieImage = ('https://i.ibb.co/HTbCn0h/bronya-zaychik-seele-vollerei-seele-seele-vollerei-and-bronya-zaychik-honkai-and-1-more-drawn-by-wuc.jpg')
-                valkyrieNumber = '482'
+                valkyrieNumber = '#482'
                 break;
             case 483:
                 valkyrieName = 'Starlit🌨️'
                 valkyrieImage = ('https://i.ibb.co/X3k59x1/0b7b57773d470c5eecb04cdc0cfe5125.jpg')
-                valkyrieNumber = '483'
+                valkyrieNumber = '#483'
                 break;
             case 484:
                 valkyrieName = 'Delta🌃'
                 valkyrieImage = ('https://i.ibb.co/FDBMkbZ/0bfdd5edb3bfd28377d70f2f502788e0.jpg')
-                valkyrieNumber = '484'
+                valkyrieNumber = '#484'
                 break;
             case 485:
                 valkyrieName = 'Rita and Durandal'
                 valkyrieImage = ('https://i.ibb.co/C2DF28g/0c18e97536c20a347d6cad455df35bf01631980065653.jpg')
-                valkyrieNumber = '485'
+                valkyrieNumber = '#485'
                 break;
             case 486:
                 valkyrieName = 'smiling Bronya💙'
                 valkyrieImage = ('https://i.ibb.co/GWn9wWC/0ed7addedd296784e3e052f27ce1483d.jpg')
-                valkyrieNumber = '486'
+                valkyrieNumber = '#486'
                 break;
             case 487:
                 valkyrieName = 'Maid Mobius'
                 valkyrieImage = ('https://i.ibb.co/N2sYV53/0f596f3f5f268fa3a7f0178aa8cf8a231631945076807.png')
-                valkyrieNumber = '487'
+                valkyrieNumber = '#487'
                 break;
             case 488:
                 valkyrieName = 'all the guys of Honkai'
                 valkyrieImage = ('https://i.ibb.co/BC8ySCq/1a283dcc44261cfa533835a425ed55f6.jpg')
-                valkyrieNumber = '488'
+                valkyrieNumber = '#488'
                 break;
             case 489:
                 valkyrieName = 'Mobius'
                 valkyrieImage = ('https://i.ibb.co/2YtMZpB/1cc8a5cb540c7730e8641d257117310e1631944666361.png')
-                valkyrieNumber = '489'
+                valkyrieNumber = '#489'
                 break;
             case 490:
                 valkyrieName = 'Bronya'
                 valkyrieImage = ('https://i.ibb.co/HzVGh2V/1cf7a94d8265ac28b92b7ca8072f9ff2.jpg')
-                valkyrieNumber = '490'
+                valkyrieNumber = '#490'
                 break;
             case 491:
                 valkyrieName = 'Sakurai'
                 valkyrieImage = ('https://i.ibb.co/VSwnTkH/1e10ff7623846f2f26f05286d86fea0a-6556901058298252627.jpg')
-                valkyrieNumber = '491'
+                valkyrieNumber = '#491'
                 break;
             case 492:
                 valkyrieName = 'Bronya 💙 Seele'
                 valkyrieImage = ('https://i.ibb.co/44XVrZv/2a50cb717e648e610779214d648fdd9f-1011141120199784783.jpg')
-                valkyrieNumber = '492'
+                valkyrieNumber = '#492'
                 break;
             case 493:
                 valkyrieName = 'Kiana and Fu Hua'
                 valkyrieImage = ('https://i.ibb.co/y52FLP8/2a440e9c2762ad31acb6d7afdae67d801631944593564.png')
-                valkyrieNumber = '493'
+                valkyrieNumber = '#493'
                 break;
             case 494:
                 valkyrieName = 'Kiana🍦'
                 valkyrieImage = ('https://i.ibb.co/nrM2YwX/2bb00fa2e9a0e6bc32e05eceed961016-1823117141455696469.jpg')
-                valkyrieNumber = '494'
+                valkyrieNumber = '#494'
                 break;
             case 495:
                 valkyrieName = 'Kiana, Nya~💛'
                 valkyrieImage = ('https://i.ibb.co/mFTXbxc/2bfab6c89c698e1479a877f990ee65a7.jpg')
-                valkyrieNumber = '495'
+                valkyrieNumber = '#495'
                 break;
             case 496:
                 valkyrieName = 'Mobius'
                 valkyrieImage = ('https://i.ibb.co/cDSkQ9d/2cda8b965efffefb83dbc545dd12f68f1631944447388.jpg')
-                valkyrieNumber = '496'
+                valkyrieNumber = '#496'
                 break;
             case 497:
                 valkyrieName = 'pouting Starlit'
@@ -2495,12 +2495,12 @@ module.exports = {
             case 498:
                 valkyrieName = 'Elysia💗'
                 valkyrieImage = ('https://i.ibb.co/5FcvkXk/RDT-20220810-2016489127643587769932767.webp')
-                valkyrieNumber = '498'
+                valkyrieNumber = '#498'
                 break;
             case 499:
                 valkyrieName = 'Elysia💝'
                 valkyrieImage = ('https://i.ibb.co/ZS1mF75/RDT-20220806-1956481484776972662104603.webp')
-                valkyrieNumber = '499'
+                valkyrieNumber = '#499'
                 break;
             case 500:
                 valkyrieName = 'Kiana, Mei, and Sakura'
