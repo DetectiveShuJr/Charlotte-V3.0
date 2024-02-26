@@ -774,7 +774,7 @@ module.exports = {
                 valkyrieNumber = '#153'
                 break;
             case 154:
-                valkyrieName = 'Ravin and Jackal'
+                valkyrieName = 'Raven and Jackal'
                 valkyrieImage = ('https://i.ibb.co/Mkvrq6m/78802830-p0-master1200.webp')
                 valkyrieNumber = '#154'
                 break;
