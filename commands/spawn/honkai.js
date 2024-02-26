@@ -104,7 +104,7 @@ module.exports = {
                 valkyrieNumber = '#19'
                 break;
             case 20:
-                valkyrieName = 'Kiana and Fu hua!'
+                valkyrieName = 'Kiana and Fu Hua!'
                 valkyrieImage = ('https://i.ibb.co/Xzg8GH8/Pics-Art-04-28-04-58-55.png')
                 valkyrieNumber = '#20'
                 break;
@@ -384,7 +384,7 @@ module.exports = {
                 valkyrieNumber = '#75'
                 break;
             case 76:
-                valkyrieName = 'my mother\'s edit, cheers!'
+                valkyrieName = 'Mom\'s edit, cheers!'
                 valkyrieImage = ('https://i.ibb.co/tLCJLrn/image0-16.jpg')
                 valkyrieNumber = '#76'
                 break;
@@ -444,7 +444,7 @@ module.exports = {
                 valkyrieNumber = '#87'
                 break;
             case 88:
-                valkyrieName = 'everyone except Seele'
+                valkyrieName = 'The orignal squad'
                 valkyrieImage = ('https://i.ibb.co/R2M12Wy/image-search-1619907199371.jpg')
                 valkyrieNumber = '#88'
                 break;
@@ -459,8 +459,8 @@ module.exports = {
                 valkyrieNumber = '#90'
                 break;
             case 91:
-                valkyrieName = 'the Bunnygirl jackpot!'
-                valkyrieImage = ('https://i.ibb.co/brNmhXN/bunnygirls-honkai.jpg')
+                valkyrieName = 'Office Bronya'
+                valkyrieImage = ('https://i.ibb.co/NNVLxcC/Bronya-Zaychik-full-4026394.png')
                 valkyrieNumber = '#91'
                 break;
             case 92:
@@ -564,7 +564,7 @@ module.exports = {
                 valkyrieNumber = '#111'
                 break;
             case 112:
-                valkyrieName = 'eh... Catgirl Rita, redo'
+                valkyrieName = 'Catgirl Rita'
                 valkyrieImage = ('https://i.ibb.co/7SJtGQv/Catgirl-Rita.jpg')
                 valkyrieNumber = '#112'
                 break;
@@ -644,8 +644,8 @@ module.exports = {
                 valkyrieNumber = '#127'
                 break;
             case 128:
-                valkyrieName = 'Bunnysuit Durandal💝'
-                valkyrieImage = ('https://i.ibb.co/WDBz81z/image1-2.jpg')
+                valkyrieName = 'Seele and Veli'
+                valkyrieImage = ('https://i.ibb.co/CzCwq2r/Houkai-3rd-full-4100813.png')
                 valkyrieNumber = '#128'
                 break;
             case 129:
@@ -659,8 +659,8 @@ module.exports = {
                 valkyrieNumber = '#130'
                 break;
             case 131:
-                valkyrieName = 'some Bunnygirls'
-                valkyrieImage = ('https://i.ibb.co/BKrrWyk/image0-9.jpg')
+                valkyrieName = 'Grim Reaper Seele'
+                valkyrieImage = ('https://i.ibb.co/mGTgDXb/20240225-213031.jpg')
                 valkyrieNumber = '#131'
                 break;
             case 132:
@@ -764,7 +764,7 @@ module.exports = {
                 valkyrieNumber = '#151'
                 break;
             case 152:
-                valkyrieName = 'future mei'
+                valkyrieName = 'future Mei'
                 valkyrieImage = ('https://i.ibb.co/WPc0107/80062774-p1-master1200.webp')
                 valkyrieNumber = '#152'
                 break;
@@ -1059,7 +1059,7 @@ module.exports = {
                 valkyrieNumber = '#210'
                 break;
             case 211:
-                valkyrieName = 'a beaut behind the mask, Mei'
+                valkyrieName = 'a beauty behind the mask, Mei'
                 valkyrieImage = ('https://i.ibb.co/HtmXzHH/372fd798c3c7b0daf87c663d6a184eb71650476806663.jpg')
                 valkyrieNumber = '#211'
                 break;
@@ -1099,7 +1099,7 @@ module.exports = {
                 valkyrieNumber = '#218'
                 break;
             case 219:
-                valkyrieName = 'a look into my dream'
+                valkyrieName = 'a look into Dad\'s dream'
                 valkyrieImage = ('https://i.ibb.co/hMZR0Cc/2822b46756a3b5b0bda9b8b793a338eb1623888336378.jpg')//come back later
                 valkyrieNumber = '#219'
                 break;
@@ -1249,7 +1249,7 @@ module.exports = {
                 valkyrieNumber = '#248'
                 break;
             case 249:
-                valkyrieName = 'thee three love birds'
+                valkyrieName = 'the three love birds'
                 valkyrieImage = ('https://ibb.co/PMpCHMw')//come back later
                 valkyrieNumber = '#249'
                 break;
@@ -1529,7 +1529,7 @@ module.exports = {
                 valkyrieNumber = '#304'
                 break;
             case 305:
-                valkyrieName = 'Tesla in Himeku\'s outfit?'
+                valkyrieName = 'Tesla in Himeko\'s outfit?'
                 valkyrieImage = ('https://i.ibb.co/Dtz8pBm/tesla.webp')
                 valkyrieNumber = '#305'
                 break;
@@ -1915,7 +1915,7 @@ module.exports = {
                 break;
             case 382:
                 valkyrieName = 'Tesla'
-                valkyrieImage = ('https://i.ibb.co/y0fVmFx/76916674-p0.jpg')//come back later
+                valkyrieImage = ('https://i.ibb.co/y0fVmFx/76916674-p0.jpg')
                 valkyrieNumber = '#382'
                 break;
             case 383:
@@ -1930,7 +1930,7 @@ module.exports = {
                 break;
             case 385:
                 valkyrieName = 'Seele and Veli'
-                valkyrieImage = ('https://i.ibb.co/VvHm33r/image0-61.jpg')//come back later
+                valkyrieImage = ('https://i.ibb.co/VvHm33r/image0-61.jpg')
                 valkyrieNumber = '#5 star ass\n#385'
                 break;
             case 386:
@@ -1984,7 +1984,7 @@ module.exports = {
                 valkyrieNumber = '#395'
                 break;
             case 396:
-                valkyrieName = 'Kiana 🧡 Asuna'
+                valkyrieName = 'Kiana 🧡 Asuka'
                 valkyrieImage = ('https://i.ibb.co/dgcm1bm/image0-80.jpg')
                 valkyrieNumber = '#396'
                 break;
@@ -2119,7 +2119,7 @@ module.exports = {
                 valkyrieNumber = '#422'
                 break;
             case 423:
-                valkyrieName = 'Seele, playnight version💘'
+                valkyrieName = 'Seele, sexy version💘'
                 valkyrieImage = ('https://i.ibb.co/Qm4MmQK/2e020805d3bd57c0e40bfb221dd7d610.png')
                 valkyrieNumber = '#423'
                 break;
@@ -2134,7 +2134,7 @@ module.exports = {
                 valkyrieNumber = '#425'
                 break;
             case 426:
-                valkyrieName = 'Mom drinking, "Once in a blue moon?"'
+                valkyrieName = 'Mom drinking... she\'s a bad influence'
                 valkyrieImage = ('https://i.ibb.co/jHm2yFr/05cb383ad3e5b74fd2644af19b68b30b.jpg')
                 valkyrieNumber = '#426'
                 break;
@@ -2179,7 +2179,7 @@ module.exports = {
                 valkyrieNumber = '#434'
                 break;
             case 435:
-                valkyrieName = 'our honeymoon photo, lights out🔦💗'
+                valkyrieName = 'a Honeymoon photo, lights out🔦💗'
                 valkyrieImage = ('https://i.ibb.co/F5h0JR2/69451aa51d6a7f0e16c6a9dbfb6ef2b0.png')
                 valkyrieNumber = '#435'
                 break;
@@ -2194,7 +2194,7 @@ module.exports = {
                 valkyrieNumber = '#437'
                 break;
             case 438:
-                valkyrieName = 'a JoJ- Ha! You expected Kiana but it is I, Durandal!'
+                valkyrieName = 'Durandal'
                 valkyrieImage = ('https://i.ibb.co/gdJbpfg/81429861-p0-master1200.webp')
                 valkyrieNumber = '#438'
                 break;
@@ -2214,12 +2214,12 @@ module.exports = {
                 valkyrieNumber = '#441'
                 break;
             case 442:
-                valkyrieName = 'Bronya and Seele, taking a night scroll🌙'
+                valkyrieName = 'Bronya and Seele, taking a night stroll🌙'
                 valkyrieImage = ('https://i.ibb.co/bmBwpP5/83955757-p0-master1200.webp')
                 valkyrieNumber = '#442'
                 break;
             case 443:
-                valkyrieName = 'the moment it all changed forever💘🔓'
+                valkyrieName = 'the moment it all changed💘🔓'
                 valkyrieImage = ('https://i.ibb.co/7CMrPYW/84099084-p0-master1200.webp')
                 valkyrieNumber = '#443'
                 break;
@@ -2303,7 +2303,7 @@ module.exports = {
                 valkyrieNumber = '#459'
                 break;
             case 460:
-                valkyrieName = 'veli🥀🖤'
+                valkyrieName = 'Veli🥀🖤'
                 valkyrieImage = ('https://i.ibb.co/4J1Y3ts/91111125-p0-master1200.webp')
                 valkyrieNumber = '#460'
                 break;
@@ -2313,7 +2313,7 @@ module.exports = {
                 valkyrieNumber = '#461'
                 break;
             case 462:
-                valkyrieName = 'Dad coming in for another🌃💘'
+                valkyrieName = 'Dad going in for another🌃💘'
                 valkyrieImage = ('https://i.ibb.co/rG167v1/91966228-p3-master1200.webp')
                 valkyrieNumber = '#462'
                 break;
@@ -2338,7 +2338,7 @@ module.exports = {
                 valkyrieNumber = '#466'
                 break;
             case 467:
-                valkyrieName = 'FS heading to eat at the train🚅'
+                valkyrieName = 'FS heading out to eat at the train🚅'
                 valkyrieImage = ('https://i.ibb.co/cxHCNKX/a964286ad25233f535c20746e6b86536.jpg')
                 valkyrieNumber = 'a certain two came late\n#467'
                 break;
@@ -2348,7 +2348,7 @@ module.exports = {
                 valkyrieNumber = '#468'
                 break;
             case 469:
-                valkyrieName = 'a troll! Sucker'
+                valkyrieName = 'Surprise sucker!'
                 valkyrieImage = ('https://i.ibb.co/mJwXfH4/By-ONKd7w-W.gif')
                 valkyrieNumber = '#469'
                 break;
@@ -2458,7 +2458,7 @@ module.exports = {
                 valkyrieNumber = '#490'
                 break;
             case 491:
-                valkyrieName = 'Sakurai'
+                valkyrieName = 'Sakura'
                 valkyrieImage = ('https://i.ibb.co/VSwnTkH/1e10ff7623846f2f26f05286d86fea0a-6556901058298252627.jpg')
                 valkyrieNumber = '#491'
                 break;
@@ -2553,7 +2553,7 @@ module.exports = {
                 valkyrieNumber = '#509'
                 break;
             case 510:
-                valkyrieName = 'Audlt Bronya🍵'
+                valkyrieName = 'Adult Bronya🍵'
                 valkyrieImage = ('https://i.ibb.co/JF9GDhJ/5d0cc60865349d8a61200dcdc628b7b11632508544235.jpg')
                 valkyrieNumber = '#510'
                 break;
@@ -2608,7 +2608,7 @@ module.exports = {
                 valkyrieNumber = '#520'
                 break;
             case 521:
-                valkyrieName = 'Bronya and Seele going for a drive🏍️'
+                valkyrieName = 'Bronya and Seele out for a drive🏍️'
                 valkyrieImage = ('https://i.ibb.co/pyHP1RH/8v2xbydgnji61.jpg')
                 valkyrieNumber = '#521'
                 break;
@@ -2688,7 +2688,7 @@ module.exports = {
                 valkyrieNumber = '#536'
                 break;
             case 537:
-                valkyrieName = 'Bronya and Seele out for a scrol💙l'
+                valkyrieName = 'Bronya and Seele out for a stroll💙'
                 valkyrieImage = ('https://i.ibb.co/xghRy3q/e1297d5a4bc5e56a2648c1427f95de10.jpg')
                 valkyrieNumber = '#537'
                 break;
@@ -2783,7 +2783,7 @@ module.exports = {
                 valkyrieNumber = '#555'
                 break;
             case 556:
-                valkyrieName = 'Seel and Veli✨'
+                valkyrieName = 'Seele and Veli✨'
                 valkyrieImage = ('https://i.ibb.co/2qJ8TKG/373fb04244a59da81c57b4c6b5dd7baa1632508438933.jpg')
                 valkyrieNumber = '#556'
                 break;
@@ -2818,7 +2818,7 @@ module.exports = {
                 valkyrieNumber = '#562'
                 break;
             case 563:
-                valkyrieName = 'Beonya~ Bronya~ Boom, Bronya'
+                valkyrieName = 'Bronya~ Bronya~ Boom, Bronya'
                 valkyrieImage = ('https://i.ibb.co/9TsjrF3/687a7572a96ab9dc182d1ffa7db3c1ed.jpg')
                 valkyrieNumber = '#563'
                 break;
@@ -2903,7 +2903,7 @@ module.exports = {
                 valkyrieNumber = '#579'
                 break;
             case 580:
-                valkyrieName = 'Bronya putting Seele to Seele💙'
+                valkyrieName = 'Bronya putting Seele to sleep💙'
                 valkyrieImage = ('https://i.ibb.co/9tYhmkG/797002a86ab1a986f9c47bef3656a352.jpg')
                 valkyrieNumber = '#580'
                 break;
@@ -3058,7 +3058,7 @@ module.exports = {
                 valkyrieNumber = '#610'
                 break;
             case 611:
-                valkyrieName = 'HoV as a maid...?!'
+                valkyrieName = 'Herrschr of Void as a maid...?!'
                 valkyrieImage = ('https://i.ibb.co/smPNhfj/a15528d2e1eee2d06612b4697cbdfa871632508901920.jpg')
                 valkyrieNumber = '#611'
                 break;
@@ -3178,8 +3178,8 @@ module.exports = {
                 valkyrieNumber = '#634'
                 break;
             case 635:
-                valkyrieName = 'Bronya and Pheonix'
-                valkyrieImage = ('https://i.ibb.co/p4HDGst/cpmyukasupw21.png')
+                valkyrieName = 'Goddess Seele💗'
+                valkyrieImage = ('https://i.ibb.co/XpZVxVL/1708920554700.jpg')
                 valkyrieNumber = '#635'
                 break;
             case 636:
@@ -3278,7 +3278,7 @@ module.exports = {
                 valkyrieNumber = '#654'
                 break;
             case 655:
-                valkyrieName = 'master Fu Hua and her student'
+                valkyrieName = 'old Fu Hua and her student'
                 valkyrieImage = ('https://i.ibb.co/m6ZRxvc/e52b490426c68604139c04470f7a4f621632508468656.jpg')
                 valkyrieNumber = '#655'
                 break;
@@ -3323,7 +3323,7 @@ module.exports = {
                 valkyrieNumber = '#663'
                 break;
             case 664:
-                valkyrieName = 'unrivaled beaut, Seele'
+                valkyrieName = 'unrivaled beauty, Seele'
                 valkyrieImage = ('https://i.ibb.co/svr6G82/f2f11f25390426f15bef34bc784ee729.jpg')
                 valkyrieNumber = '"Any recommendations to play next?"\n#664'
                 break;
@@ -3505,7 +3505,7 @@ module.exports = {
             case 700:
                 valkyrieName = 'a future wedding💍'
                 valkyrieImage = ('https://i.ibb.co/bg09Xnr/image0-24.jpg')
-                valkyrieNumber = '"Take my hand while I will take yours"\n#700'
+                valkyrieNumber = '"Take my hand and I will take yours"\n#700'
                 break;
             case 701:
                 valkyrieName = 'GGZ Bronya'
@@ -3523,7 +3523,7 @@ module.exports = {
                 valkyrieNumber = '#703'
                 break;
             case 704:
-                valkyrieName = 'Herrscher of the Vold💛'
+                valkyrieName = 'Herrscher of the Void💛'
                 valkyrieImage = ('https://i.ibb.co/SQfg01S/image0-41.jpg')
                 valkyrieNumber = '#704'
                 break;
@@ -3568,8 +3568,8 @@ module.exports = {
                 valkyrieNumber = '#712'
                 break;
             case 713:
-                valkyrieName = 'a cringy meme...? I have no idea'
-                valkyrieImage = ('https://i.ibb.co/mH9VvYn/OQBRw4t4-RYBhr-KI0y84-P5-Y9-VC1x-Md-Iobt-LH4zgcw-Yg.jpg')
+                valkyrieName = 'Seele💜'
+                valkyrieImage = ('https://i.ibb.co/jRCDVMy/20240225-195812.jpg')
                 valkyrieNumber = '#713'
                 break;
             case 714:
@@ -3703,8 +3703,8 @@ module.exports = {
                 valkyrieNumber = '#739'
                 break;
             case 740:
-                valkyrieName = 'Durandal and Kira reunioning'
-                valkyrieImage = ('https://i.ibb.co/5hk5nvC/Screenshot-20211020-141600-You-Tube.jpg')
+                valkyrieName = 'Seele💘'
+                valkyrieImage = ('https://i.ibb.co/mXXZjC2/herrscher-of-rebirth-600-4050288.jpg')
                 valkyrieNumber = '#740'
                 break;
             case 741:
@@ -3778,9 +3778,9 @@ module.exports = {
                 valkyrieNumber = '#754'
                 break;
             case 755:
-                valkyrieName = 'Joined Forces LR Kiana'
+                valkyrieName = 'Joined Forces, LR Kiana'
                 valkyrieImage = ('https://i.ibb.co/p0xzwgB/Screenshot-20211020-141938-You-Tube.jpg')
-                valkyrieNumber = '#31,510 ATK, 14,230 DEF, 44,220 HP.\n#755'
+                valkyrieNumber = '#24,510 ATK, 15,230 DEF, 22,220 HP.\n#755'
                 break;
             case 756:
                 valkyrieName = 'Kiana'
@@ -3788,7 +3788,7 @@ module.exports = {
                 valkyrieNumber = '#756'
                 break;
             case 757:
-                valkyrieName = 'The Fu Fu fest'
+                valkyrieName = 'The Fu-Fu fest'
                 valkyrieImage = ('https://i.ibb.co/cTZWmZD/Screenshot-20211020-142229-You-Tube.jpg')
                 valkyrieNumber = '#757'
                 break;
@@ -3808,7 +3808,7 @@ module.exports = {
                 valkyrieNumber = '#760'
                 break;
             case 761:
-                valkyrieName = 'bronya\'s Birthday calendar'
+                valkyrieName = 'Bronya\'s Birthday calendar'
                 valkyrieImage = ('https://i.ibb.co/t81MgDc/Screenshot-20211020-142352-You-Tube.jpg')
                 valkyrieNumber = '#761'
                 break;
@@ -3828,7 +3828,7 @@ module.exports = {
                 valkyrieNumber = '#764'
                 break;
             case 765:
-                valkyrieName = 'Fishel'
+                valkyrieName = 'Fischl'
                 valkyrieImage = ('https://i.ibb.co/5xL1MSs/Screenshot-20211020-142500-You-Tube.jpg')
                 valkyrieNumber = '#765'
                 break;
@@ -3848,7 +3848,7 @@ module.exports = {
                 valkyrieNumber = '#768'
                 break;
             case 769:
-                valkyrieName = 'Fu Hua vs Fishal'
+                valkyrieName = 'Fu Hua vs Fischl'
                 valkyrieImage = ('https://i.ibb.co/QfWkm38/Screenshot-20211020-142753-You-Tube.jpg')
                 valkyrieNumber = '#769'
                 break;
@@ -3873,7 +3873,7 @@ module.exports = {
                 valkyrieNumber = 'Bronya loves you Seele\n#773'
                 break;
             case 774:
-                valkyrieName = 'Bronya and Seele stargazing'
+                valkyrieName = 'Bronya & Seele stargazing'
                 valkyrieImage = ('https://i.ibb.co/9GDC96P/Screenshot-20211020-183147-Discord.jpg')
                 valkyrieNumber = '#774'
                 break;
@@ -3885,7 +3885,7 @@ module.exports = {
             case 776:
                 valkyrieName = 'Bronya and Seele'
                 valkyrieImage = ('https://i.ibb.co/8PtH5Nw/Screenshot-20211024-145205-Reddit.jpg')
-                valkyrieNumber = '"Bronya will always be there for you Seele"\n#776'
+                valkyrieNumber = '"Bronya will always be there for Seele"\n#776'
                 break;
             case 777:
                 valkyrieName = 'beach Seele'
@@ -3920,7 +3920,7 @@ module.exports = {
             case 783:
                 valkyrieName = 'Bronya 💙 Seele'
                 valkyrieImage = ('https://i.ibb.co/QrpYqLP/zm0dtb1i0wu71.jpg')
-                valkyrieNumber = 'a look at 2020- wait...\n#783'
+                valkyrieNumber = '#783'
                 break;
             case 784:
                 valkyrieName = 'a married couple💍'
@@ -3928,7 +3928,7 @@ module.exports = {
                 valkyrieNumber = '#784'
                 break;
             case 785:
-                valkyrieName = 'bronie'
+                valkyrieName = 'Bronie'
                 valkyrieImage = ('https://i.ibb.co/h8Mx1P2/onixwztkx5q61.jpg')
                 valkyrieNumber = '#785'
                 break;
@@ -3948,14 +3948,14 @@ module.exports = {
                 valkyrieNumber = 'Dad... stop starring at Seele\'s ass!\n#788'
                 break;
             case 789:
-                valkyrieName = 'Bronya trying out Seele\'s wedding dress💙'
+                valkyrieName = 'Bronya trying on Seele\'s wedding dress💙'
                 valkyrieImage = ('https://i.ibb.co/m5q2kfD/79375f431b283fc35bcde3a94b0b2e0b-895944257354088781.jpg')
                 valkyrieNumber = '"You have a beautiful dress Seele"\n#789'
                 break;
             case 790:
                 valkyrieName = 'Bronya taking care of Sleeping Beauty💙'
                 valkyrieImage = ('https://i.ibb.co/mBSwh6D/bronya-zaychik-seele-vollerei-seele-bronya-zaychik-and-seele-vollerei-honkai-and-1-more-drawn-by-nas.png')
-                valkyrieNumber = 'Just like in Vegas, miss those days...\n#790'
+                valkyrieNumber = 'Just like Oogie Bash, miss those days...\n#790'
                 break;
             case 791:
                 valkyrieName = 'Bronya saving Seele'
@@ -3965,12 +3965,12 @@ module.exports = {
             case 792:
                 valkyrieName = 'Bronya 💙 Seele'
                 valkyrieImage = ('https://i.ibb.co/XV7w5tY/ci56nbntway81.jpg')
-                valkyrieNumber = '"Here, you look cold Seele"\n#792'
+                valkyrieNumber = '#792'
                 break;
             case 793:
                 valkyrieName = 'an adorable Seele gif'
                 valkyrieImage = ('https://i.ibb.co/VMyyzfF/honkai-impact.gif')
-                valkyrieNumber = 'Hope you luck on your next summon\n#793'
+                valkyrieNumber = 'Wishing you good luck\n#793'
                 break;
             case 794:
                 valkyrieName = 'Veli'
@@ -3993,7 +3993,7 @@ module.exports = {
                 valkyrieNumber = '"You promised me we will go out to the beach once we got back!"\n#797'
                 break;
             case 798:
-                valkyrieName = 'Seele annoyed with Bronya'
+                valkyrieName = 'Seele mad at Bronya'
                 valkyrieImage = ('https://i.ibb.co/Qds16w3/tQLxQ6u.png')
                 valkyrieNumber = 'dad knows that feeling all too well\n798'
                 break;
@@ -4128,8 +4128,8 @@ module.exports = {
                 valkyrieNumber = '#824'
                 break;
             case 825:
-                valkyrieName = 'some Bunny maids'
-                valkyrieImage = ('https://i.ibb.co/s3xSL4C/IMG-6548.jpg')
+                valkyrieName = 'Two sexy Bronyas'
+                valkyrieImage = ('https://i.ibb.co/PxX4c4K/Picsart-22-04-15-03-03-03-501.png')
                 valkyrieNumber = '#825'
                 break;
             case 826:
@@ -4234,7 +4234,7 @@ module.exports = {
             case 846:
                 valkyrieName = 'the Herrschers!'
                 valkyrieImage = ('https://i.ibb.co/6DHg2MC/f81fc81bf26501715df73899f7174f081631944023672.jpg')
-                valkyrieNumber = 'Persoanlly I like Bronya\n#846'
+                valkyrieNumber = 'Personally I like Bronya\n#846'
                 break;
             case 847:
                 valkyrieName = 'Kiana and Fu Hua'
@@ -4242,7 +4242,7 @@ module.exports = {
                 valkyrieNumber = '#847'
                 break;
             case 848:
-                valkyrieName = 'Veli with captain'
+                valkyrieName = 'Veli on a date with Captain'
                 valkyrieImage = ('https://i.ibb.co/QfWgyKm/dekkth8-88339192-0efe-4bd4-b58b-2b42120a0fb8.png')
                 valkyrieNumber = '#848'
                 break;
@@ -4301,8 +4301,8 @@ module.exports = {
                 valkyrieImage = ('https://i.ibb.co/72spw0V/1642529737623.jpg')
                 valkyrieNumber = '#861'
             case 862:
-                valkyrieName = 'a death note'
-                valkyrieImage = ('https://i.ibb.co/St6p4W3/1642529796626.jpg')
+                valkyrieName = 'Bronya 💙 Seele'
+                valkyrieImage = ('https://i.ibb.co/w0CV5XD/image-search-1661326450233.jpg')
                 valkyrieNumber = '#862'
             case 863:
                 valkyrieName = 'adult Bronya'
@@ -4429,7 +4429,7 @@ module.exports = {
                 valkyrieImage = ('https://i.ibb.co/FwFRMtj/Pics-Art-08-08-01-16-11.jpg')
                 valkyrieNumber = '#893'
             case 894:
-                valkyrieName = 'kiana\'s old memory...'
+                valkyrieName = 'Kiana\'s old memory...'
                 valkyrieImage = ('https://i.ibb.co/3hHL0n1/Pics-Art-08-08-01-18-33.jpg')
                 valkyrieNumber = '#894'
             case 895:
