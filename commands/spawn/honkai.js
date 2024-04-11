@@ -4099,7 +4099,7 @@ module.exports = {
                 break;
             case 1:
                 valkyrieName = 'Bronya💙'
-                valkyrieImage = ('<blockquote class="imgur-embed-pub" lang="en" data-id="a/baFPieY" data-context="false" ><a href="//imgur.com/a/baFPieY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>')
+                valkyrieImage = ('https://i.imgur.com/baFPieY.jpg')
                 valkyrieNumber = '"Hello Project Bunny, good work today"\n#819'
                 break;
             case 820:
