@@ -6,11 +6,11 @@ module.exports = {
     .setDescription('A spawn command'),
     async execute(interaction, awaitMessages){
         
-        number = 2;
-        switch(Math.floor (Math.random() * number)){
+        number = 900;
+        switch(Math.floor(Math.random() * number)){
             case 1:
                 valkyrieName = 'Liliya!'
-                valkyrieImage = ('https://i.imgur.com/EJqmKMC.jpg')
+                valkyrieImage = ('https://i.ibb.co/3hMGSGm/Liliya.png')
                 valkyrieNumber = '#1'
                 break; 
             case 2:
@@ -4099,7 +4099,7 @@ module.exports = {
                 break;
             case 819:
                 valkyrieName = 'Bronya💙'
-                valkyrieImage = ('https://i.imgur.com/EJqmKMC.jpg')
+                valkyrieImage = ('https://i.imgur.com/baFPieY.jpg')
                 valkyrieNumber = '"Hello Project Bunny, good work today"\n#819'
                 break;
             case 820:
