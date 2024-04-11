@@ -6,7 +6,7 @@ module.exports = {
     .setDescription('A spawn command'),
     async execute(interaction, awaitMessages){
         
-        number = 900;
+        number = 1;
         switch(Math.floor (Math.random() * number)){
             case 819:
                 valkyrieName = 'Liliya!'
