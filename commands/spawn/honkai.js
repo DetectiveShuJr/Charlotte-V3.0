@@ -8,7 +8,7 @@ module.exports = {
         
         number = 900;
         switch(Math.floor (Math.random() * number)){
-            case 1:
+            case 819:
                 valkyrieName = 'Liliya!'
                 valkyrieImage = ('https://i.ibb.co/3hMGSGm/Liliya.png')
                 valkyrieNumber = '#1'
@@ -4097,7 +4097,7 @@ module.exports = {
                 valkyrieImage = ('https://i.ibb.co/tPbGhz8/bb91fd603a4177328853ccfb1e8270461651297600241.jpg')
                 valkyrieNumber = '#818'
                 break;
-            case 819:
+            case 1:
                 valkyrieName = 'Bronya💙'
                 valkyrieImage = ('https://i.imgur.com/baFPieY.jpg')
                 valkyrieNumber = '"Hello Project Bunny, good work today"\n#819'
