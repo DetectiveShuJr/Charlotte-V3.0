@@ -4099,7 +4099,7 @@ module.exports = {
                 break;
             case 1:
                 valkyrieName = 'Bronya💙'
-                valkyrieImage = ('https://i.imgur.com/baFPieY.jpg')
+                valkyrieImage = ('https://i.imgur.com/EJqmKMC.jpg')
                 valkyrieNumber = '"Hello Project Bunny, good work today"\n#819'
                 break;
             case 820:
