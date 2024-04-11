@@ -10,7 +10,7 @@ module.exports = {
             return Math.floor(Math.random() * max);
           }
 
-        switch(getRandomInt()){
+        switch(getRandomInt(901)){
             case getRandomInt(1):
                 valkyrieName = 'Liliya!'
                 valkyrieImage = ('https)://i.ibb.co/3hMGSGm/Liliya.png')
