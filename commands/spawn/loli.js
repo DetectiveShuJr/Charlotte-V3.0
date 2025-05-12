@@ -12,7 +12,7 @@ module.exports = {
             const { name: loliName, image: loliImage, number: loliNumber } = valkyries[randomIndex];
 
             const loliEmbed = new EmbedBuilder()
-                .setImage(loliiImage)
+                .setImage(loliImage)
                 .setURL(interaction.user.displayAvatarURL())
                 .setAuthor({ name: `${interaction.user.username} found ${loliName}`, iconURL: interaction.user.displayAvatarURL()})
                 .setFooter({ text: `Your mini loli stamp\n${loliNumber}`, iconURL: loliImage })
