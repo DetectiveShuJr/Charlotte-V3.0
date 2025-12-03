@@ -11,12 +11,12 @@ const charlotte = new Client({ intents: myIntents });
 const Angel = new Client({ intents: myIntents});
 
 // ----------------------------------------------------------------------------------
-    Angel.on('ready', () =>{
+    Angel.on('clientReady', () =>{
     console.log(`Angel Mode: on... I'm all set now`);
     Angel.user.setActivity('Test test')
 })
 // ----------------------------------------------------------------------------------
-charlotte.on('ready', () =>{
+charlotte.on('clientReady', () =>{
     console.log('Im ready to go!');
     charlotte.user.setActivity()
 })
