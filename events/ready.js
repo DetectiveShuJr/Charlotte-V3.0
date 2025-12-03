@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const { Events } = require('discord.js');
 
 module.exports = {
@@ -13,3 +14,14 @@ module.exports = {
     });
   },
 };
+=======
+const { Events } = require('discord.js')
+
+module.exports = {
+    name: Events.ClientReady,
+    once: true,
+    async execute(charlotte) {
+        console.log(`Events read ${charlotte.user.tag}`);
+    }
+}
+>>>>>>> 70931abe7cfd7d496e72d639d8b294c57144c792
