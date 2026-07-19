@@ -32,7 +32,7 @@ async execute(interaction) {
     } else if (targetUser.id === interaction.client.user.id) {
         resultEmbed = kickCustomEmbed
             .setAuthor({ name: `How dare you ${author.username}?! Get outta here!!!`, iconURL: interaction.client.user.displayAvatarURL({ dynamic: true }) })
-            .setFooter({ text: `${interaction.client.user.username} kicked ${author.username} out of the building\nScrew you`, iconURL: 'https://i.imgur.com/gwcih50.png'({ dynamic: true }) })
+            .setFooter({ text: `${interaction.client.user.username} kicked ${author.username} out of the building\nScrew you`, iconURL: 'https://i.imgur.com/gwcih50.png' })
     } else {
         resultEmbed = kissEmbed
             .setAuthor({ name: `${author.username} gave ${targetUser.username} a kiss!`, iconURL: author.displayAvatarURL({ dynamic: true }) })
