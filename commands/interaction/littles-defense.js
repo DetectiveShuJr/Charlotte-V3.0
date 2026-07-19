@@ -52,7 +52,7 @@ module.exports = {
             return interaction.reply({ embeds: [defenseEmbed] });
         }
 
-        if (targetUser.id === '345261532982280194') {
+        if (targetUser.id === '345261532982280194' | targetUser.id === '575921413190451204') {
             defenseEmbed
                 .setAuthor({ name: 'Nice try Princess, but Daddy wouldn\'t allow this!', iconURL: author.displayAvatarURL({ dynamic: true }) })
                 .setFooter({ text: 'Dad took the wheel on this part of the command, good luck Mom!', iconURL: author.displayAvatarURL({ dynamic: true }) });
