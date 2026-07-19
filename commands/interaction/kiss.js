@@ -29,7 +29,6 @@ async execute(interaction) {
     if (targetUser.id === author.id) {
         resultEmbed = kissEmbed
             .setAuthor({ name: `You okay ${author.username}? Are you seriously THIS lonely?`, iconURL: author.displayAvatarURL({ dynamic: true }) })
-            .setFooter({ text: `${author.username} kissed themselves in the mirror\n${KissesNumber}`, iconURL: author.displayAvatarURL({ dynamic: true }) })
     } else if (targetUser.id === interaction.client.user.id) {
         resultEmbed = kickCustomEmbed
             .setAuthor({ name: `How dare you ${author.username}?! Get outta here!!!`, iconURL: interaction.client.user.displayAvatarURL({ dynamic: true }) })
@@ -37,7 +36,6 @@ async execute(interaction) {
     } else {
         resultEmbed = kissEmbed
             .setAuthor({ name: `${author.username} gave ${targetUser.username} a kiss!`, iconURL: author.displayAvatarURL({ dynamic: true }) })
-            .setFooter({ text: `${targetUser.username} is embarrassed\n${KissesNumber}`, iconURL: author.displayAvatarURL({ dynamic: true }) })
     }
 
     await interaction.reply({ embeds: [resultEmbed] });

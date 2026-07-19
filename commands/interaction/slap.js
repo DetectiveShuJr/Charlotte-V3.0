@@ -29,7 +29,6 @@ async execute(interaction) {
     if (targetUser.id === author.id) {
         resultEmbed = slapEmbed
             .setAuthor({ name: `You okay ${author.username}? Don't slap yourself!`, iconURL: author.displayAvatarURL({ dynamic: true }) })
-            .setFooter({ text: `${author.username} slapped themselves\n${slapGifsNumber}`, iconURL: author.displayAvatarURL({ dynamic: true }) })
     } else if (targetUser.id === interaction.client.user.id) {
         resultEmbed = kickCustomEmbed
             .setAuthor({ name: `How dare you ${author.username}?! Get outta here!!!`, iconURL: interaction.client.user.displayAvatarURL({ dynamic: true }) })
