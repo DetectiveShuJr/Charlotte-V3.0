@@ -37,7 +37,7 @@ async execute(interaction) {
     } else {
         resultEmbed = kissEmbed
             .setAuthor({ name: `${author.username} gave ${targetUser.username} a kiss!`, iconURL: author.displayAvatarURL({ dynamic: true }) })
-            .setFooter({ text: `${targetUser.username} is embarrassed`, iconURL: author.displayAvatarURL({ dynamic: true }) })
+            .setFooter({ text: `${targetUser.username} is embarrassed\n${KissesNumber}`, iconURL: author.displayAvatarURL({ dynamic: true }) })
     }
 
     await interaction.reply({ embeds: [resultEmbed] });

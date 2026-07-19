@@ -37,7 +37,7 @@ async execute(interaction) {
     } else {
         resultEmbed = slapEmbed
             .setAuthor({ name: `${author.username} slapped the smirk right off ${targetUser.username}!`, iconURL: author.displayAvatarURL({ dynamic: true }) })
-            .setFooter({ text: `${targetUser.username} fainted! ${experience} exp for ${author.username}`, iconURL: author.displayAvatarURL({ dynamic: true }) })
+            .setFooter({ text: `${targetUser.username} fainted! ${experience} exp for ${author.username}!\n${slapGifsNumber}`, iconURL: author.displayAvatarURL({ dynamic: true }) })
     }
 
     await interaction.reply({ embeds: [resultEmbed] });
