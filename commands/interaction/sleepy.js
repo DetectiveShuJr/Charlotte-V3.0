@@ -3,7 +3,7 @@ const sleep = require('./sleep.json');
 
 module.exports = {
     data: new SlashCommandBuilder()
-        .setName('sleep')
+        .setName('sleepy')
         .setDescription('Feeling sleepy? Take a nap')
         .addUserOption(option =>
             option.setName('target')
