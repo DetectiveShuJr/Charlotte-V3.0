@@ -1,6 +1,6 @@
 
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
-const valkyries = require('./cute.json'); // Move data to a separate JSON file
+const cute = require('./cute.json'); // Move data to a separate JSON file
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -8,8 +8,8 @@ module.exports = {
         .setDescription('A spawn command'),
     async execute(interaction) {
         try {
-            const randomIndex = Math.floor(Math.random() * valkyries.length);
-            const { name: loliName, image: loliImage, number: loliNumber } = valkyries[randomIndex];
+            const randomIndex = Math.floor(Math.random() * cute.length);
+            const { name: loliName, image: loliImage, number: loliNumber } = cute[randomIndex];
 
             const loliEmbed = new EmbedBuilder()
                 .setImage(loliImage)

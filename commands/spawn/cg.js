@@ -1,36 +1,26 @@
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
-const catgirls = require('./catgirls.json'); // Load catgirl data from JSON file
+const catgirls = require('./catgirls.json'); // Move data to a separate JSON file
 
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('cg')
-        .setDescription('Fun little gif command'),
+        .setDescription('Summon a cute catgirl'),
     async execute(interaction) {
         try {
-            // Validate catgirls array
-            if (!Array.isArray(catgirls) || catgirls.length === 0) {
-                throw new Error('Catgirl data is missing or invalid.');
-            }
-
-            // Select a random catgirl
             const randomIndex = Math.floor(Math.random() * catgirls.length);
-            const { image: catgirlImage = '' } = catgirls[randomIndex];
+            const { name: catgirlName, image: catgirlImage, number: catgirlNumber } = catgirls[randomIndex];
 
-            // Create an embed message
             const catgirlEmbed = new EmbedBuilder()
-                .setColor('#D31AD3')
-                .setAuthor({ name: `${interaction.user.username} found a catgirl`, iconURL: interaction.user.displayAvatarURL() })
                 .setImage(catgirlImage)
-                .setFooter({
-                    text: 'Your mini catgirl stamp',
-                    iconURL: catgirlImage
-                });
+                .setURL(interaction.user.displayAvatarURL())
+                .setAuthor({ name: `${interaction.user.username} found a catgirl`, iconURL: interaction.user.displayAvatarURL() })
+                .setFooter({ text: `Your mini catgirl stamp\n${catgirlNumber}`, iconURL: catgirlImage })
+                .setColor('#D31AD3');
 
-            // Send the embed
-            await interaction.reply({ embeds: [catgirlEmbed] });
+            interaction.reply({ embeds: [catgirlEmbed] });
         } catch (error) {
-            console.error('Error in cg command:', error); // Log the error details
+            console.error(error);
             interaction.reply({ content: 'An error occurred while processing your request.', ephemeral: true });
         }
-    }
+    },
 };
