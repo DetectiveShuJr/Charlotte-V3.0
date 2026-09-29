@@ -61,7 +61,7 @@
   },
 {
     "name": "Fu Hua and Kiana",
-    "color": "#88FCA0",
+    "color": "#88fca0",
     "image": "https://i.imgur.com/Mh6Uqao.png",
     "number": "#11"
   },
@@ -280,8 +280,9 @@
     "number": "#47"
   },
 {
-    "name": "Honkai x Genshin crossover",
-    "image": "https://i.imgur.com/nItAdZN.jpeg",
+    "name": "Senti",
+    "color": "#A6B4C9",
+    "image": "https://i.imgur.com/V2OWFXT.png",
     "number": "#48"
   },
 {
@@ -297,253 +298,296 @@
     "number": "#50"
   },
 {
-    "name": "a beautiful Bronya💖",
-    "image": "https://i.ibb.co/m6XQQkf/20210405-211037.png",
+    "name": "Veli💖",
+    "color": "#FF1A1A",
+    "image": "https://i.imgur.com/ghkzqLS.jpeg",
     "number": "#51"
   },
 {
-    "name": "Starlit🌠",
-    "image": "https://i.ibb.co/SnQs92Z/a-Li-AWF7l-wallha-com-1.png",
+    "name": "Rita💜",
+    "color": "#7c4ac2",
+    "image": "https://i.imgur.com/4U4xgE7.jpeg",
     "number": "#52"
   },
 {
-    "name": "Fu Hua",
-    "image": "https://i.ibb.co/9T7cKxK/maxresdefault-2.jpg",
+    "name": "a promise betweenBronya 🌸 Seele",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/ZCmT5AL.jpeg",
     "number": "#53"
   },
 {
-    "name": "Kallen",
-    "image": "https://i.ibb.co/4YbYWbb/2019112119305275590-2.jpg",
+    "name": "Seele and Veli",
+    "color": "#5436eb",
+    "image": "https://i.imgur.com/tcq23af.png",
     "number": "#54"
   },
 {
-    "name": "Herrscher of the Void",
-    "image": "https://i.ibb.co/0tw3Tsb/2019112119313423486-2.jpg",
+    "name": "Sakura",
+    "color": "#ff94ad",
+    "image": "https://i.imgur.com/mNUwRm1.jpeg",
     "number": "#55"
   },
 {
-    "name": "Starlit!",
-    "image": "https://i.ibb.co/qsjGNfZ/twbiu2si3v551-2.jpg",
+    "name": "Theresa",
+    "color": "#E6E9FA",
+    "image": "https://i.imgur.com/WXSwEMO.jpeg",
     "number": "#56"
   },
 {
-    "name": "Starlit",
-    "image": "https://i.ibb.co/1XLQrpp/crop-1-1.jpg",
+    "name": "Bronya",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/HNwF3iX.png",
     "number": "#57"
   },
 {
-    "name": "Seele and Veli!",
-    "image": "https://i.ibb.co/fx89NKG/image0-3-1.jpg",
+    "name": "Bronie",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/8vEphGL.png",
     "number": "#58"
   },
 {
-    "name": "Seele and Veli🦋",
-    "image": "https://i.ibb.co/fFzj04b/image0-17-1.jpg",
+    "name": "Kiana",
+    "color": "#E6E9FA",
+    "image": "https://i.imgur.com/ZaqURYc.jpeg",
     "number": "#59"
   },
 {
-    "name": "Seele and Veli!",
-    "image": "https://i.ibb.co/D77zrDb/image0-26-1.jpg",
+    "name": "Mei",
+    "color": "#FF96D0",
+    "image": "https://i.imgur.com/Br7sYfy.jpeg",
     "number": "#60"
   },
 {
-    "name": "Kiana",
-    "image": "https://i.ibb.co/pJfwJDm/image0-7-1.jpg",
+    "name": "Kallen",
+    "color": "#E6E9FA",
+    "image": "https://i.imgur.com/EAvdVmI.jpeg",
     "number": "#61"
   },
 {
-    "name": "angry Veli, start running!",
-    "image": "https://i.ibb.co/5Fw0z7F/image1-1.jpg",
+    "name": "Herrscher of the Void",
+    "color": "#E6E9FA",
+    "image": "https://i.imgur.com/f4mFUq6.jpeg",
     "number": "#62"
   },
 {
-    "name": "Bronya💙",
-    "image": "https://i.ibb.co/nzkyGJc/sample-a3bd59074124be18a6d62d4fb75e2648-1.jpg",
+    "name": "The original Trio",
+    "image": "https://i.imgur.com/3crPM9H.png",
     "number": "#63"
   },
 {
-    "name": "bunnygirl Rozaliya💗",
-    "image": "https://i.ibb.co/ZT7MX8c/e0ac057.png",
+    "name": "Sakura and Kallen",
+    "color": "#ff94ad",
+    "image": "https://i.imgur.com/1O5RokN.jpeg",
     "number": "#64"
   },
 {
-    "name": "Hacker Bronie!",
-    "image": "https://i.ibb.co/kB1zqgk/20210424-210754.png",
+    "name": "Bunny Girls",
+    "color": "#000000",
+    "image": "https://i.imgur.com/QI6NOwn.png",
     "number": "#65"
   },
 {
-    "name": "Hacker Bronie!",
-    "image": "https://i.ibb.co/dL81Bd0/20210430-002755.png",
+    "name": "Rita",
+    "color": "#7c4ac2",
+    "image": "https://i.imgur.com/LTfWbtA.jpeg",
     "number": "#66"
   },
 {
-    "name": "Hacker Bronie",
-    "image": "https://i.ibb.co/Jjfkt72/sample-fb14459f1111c5d2c26d3421df6d63a1-1.jpg",
+    "name": "Starlit🤍",
+    "color": "#E6E9FA",
+    "image": "https://i.imgur.com/jGkQXEy.jpeg",
     "number": "#67"
   },
 {
-    "name": "Bronya!",
-    "image": "https://i.ibb.co/5rPBSnp/bronya-ready-for-battle.jpg",
+    "name": "Spring Dress Mei",
+    "color": "#c88bf7",
+    "image": "https://i.imgur.com/OZJv2h6.jpeg",
     "number": "#68"
   },
 {
-    "name": "Bronya💙",
-    "image": "https://i.ibb.co/WFTJpt4/ddfx5uz-17918711-f3d7-4419-887e-d8886e0a975b-1.png",
+    "name": "Theresa",
+    "color": "#E6E9FA",
+    "image": "https://i.imgur.com/V5HG5jC.png",
     "number": "#69"
   },
 {
     "name": "Bronya💙",
-    "image": "https://i.ibb.co/RHnsKLb/ECVUM-VXk-AAAn-QY-jpg-large-1.jpg",
+    "image": "https://i.imgur.com/G3ab7kg.png",
     "number": "#70"
   },
 {
-    "name": "Bronya💙",
-    "image": "https://i.ibb.co/mbCGL3H/sample-551a2053b14e87fcf6e8515fd3d47b42-1.jpg",
+    "name": "Sakura",
+    "color": "#ff94ad",
+    "image": "https://i.imgur.com/LW88sKR.jpeg",
     "number": "#71"
   },
 {
-    "name": "Bronya💙",
-    "image": "https://i.ibb.co/ssCB3Hg/sample-fdf8228a4af8478960ec1513bdce51bb-1.jpg",
+    "name": "A look into Starlit's past",
+    "color": "#E6E9FA",
+    "image": "https://i.imgur.com/DeyQSZ4.png",
     "number": "#72"
   },
 {
-    "name": "Bronya!",
-    "image": "https://i.ibb.co/nrrKt68/bbaf19b956e5b063443d95cdc69b575c-1.png",
+    "name": "Durandal",
+    "color": "#FCC75D",
+    "image": "https://i.imgur.com/f6Lkb4Z.jpeg",
     "number": "#73"
   },
 {
-    "name": "Bronya!",
-    "image": "https://i.ibb.co/wYpQvtZ/0b7ffbc552ddf5e4e892e7b69c89d8d2-1.jpg",
+    "name": "Theresa",
+    "color": "#E6E9FA",
+    "image": "https://i.imgur.com/Yz8r7dF.jpeg",
     "number": "#74"
   },
 {
-    "name": "Bronya!",
-    "image": "https://i.ibb.co/7g8h00w/bronya-zaychik-bronya-zaychik-and-project-bunny-honkai-and-1-more-drawn-by-zukan-db-tyoutyo-2602d2c.jpg",
+    "name": "Kiana fighting to save Mei",
+    "color": "#e48bfc",
+    "image": "https://i.imgur.com/6DcvtC4.jpeg",
     "number": "#75"
   },
 {
-    "name": "Mom's edit, cheers!",
-    "image": "https://i.ibb.co/tLCJLrn/image0-16.jpg",
+    "name": "Rozaliya on the switch",
+    "color": "#FF96D0",
+    "image": "https://i.imgur.com/k8tQ0zt.png",
     "number": "#76"
   },
 {
-    "name": "Seele💜",
-    "image": "https://i.ibb.co/rvxGHrv/image0-22.jpg",
+    "name": "Bronie💙",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/0jqiqCt.jpeg",
     "number": "#77"
   },
 {
-    "name": "Theresa",
-    "image": "https://i.ibb.co/L0N0Z2S/image0-27.jpg",
+    "name": "Bronya💙",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/hmYvE5Q.jpeg",
     "number": "#78"
   },
 {
-    "name": "Hacker Bronie",
-    "image": "https://i.ibb.co/GJk4sgz/sample-9791ad54b78e8f0cc89b1fea6b786f8f-2.jpg",
+    "name": "Bronya",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/xMOz01O.jpeg",
     "number": "#79"
   },
 {
-    "name": "Hacker Bronie💙",
-    "image": "https://i.ibb.co/DKgq2D8/bronya-zaychik-and-bronya-zaychik-honkai-and-1-more-a9cc0740f90e2b12c28224dae874124c.jpg",
+    "name": "Hacker Bronie",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/3cvFvKd.jpeg",
     "number": "#80"
   },
 {
-    "name": "Hacker Bronie",
-    "image": "https://i.ibb.co/RjwGRnL/bronya-zaychik-bike-honkai-impact-3rd-thumb-1.jpg",
+    "name": "Spirit Halloween Bronya🧡",
+    "color": "#ff8f2e",
+    "image": "https://i.imgur.com/ojP5gbv.jpeg",
     "number": "#81"
   },
 {
-    "name": "Hacker Bronie",
-    "image": "https://i.ibb.co/GWXLq6W/f0663f613c852ffd20293294b22b2c22-1.jpg",
+    "name": "Sakura",
+    "color": "#ff94ad",
+    "image": "https://i.imgur.com/GdP0afm.jpeg",
     "number": "#82"
   },
 {
-    "name": "Veli❤️",
-    "image": "https://i.ibb.co/zmqkkJL/72f39ce.jpg",
+    "name": "beach Rozaliya and Liliya",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/6UlJ4k2.jpeg",
     "number": "#83"
   },
 {
-    "name": "the Twins",
-    "image": "https://i.ibb.co/T4RyGyn/Picsart-22-05-23-18-58-00-824.png",
+    "name": "Senti",
+    "color": "#A6B4C9",
+    "image": "https://i.imgur.com/3p9Cucg.png",
     "number": "#84"
   },
 {
-    "name": "Bronya 💙 Seele",
-    "image": "https://i.ibb.co/Q9JfwKS/yande-re-591087-sample-benghuai-xueyuan-bronya-zaychik-dress-eta-honkai-impact-see-through-seele-vol.jpg",
+    "name": "Starlit",
+    "color": "#E6E9FA",
+    "image": "https://i.imgur.com/yira8Uc.jpeg",
     "number": "#85"
   },
 {
-    "name": "Bronya 💙 Seele",
-    "image": "https://i.ibb.co/3MHXPVw/Picsart-22-05-23-19-01-28-430.jpg",
+    "name": "a postcard from Chapter 9",
+    "image": "https://i.imgur.com/cfBODXH.jpeg",
     "number": "#86"
   },
 {
-    "name": "everyone!",
-    "image": "https://i.ibb.co/tP8hbJX/image-search-1619907189646.jpg",
+    "name": "Kiana with glasses🧡",
+    "image": "https://i.imgur.com/3HmcHwF.jpeg",
     "number": "#87"
   },
 {
-    "name": "The orignal squad",
-    "image": "https://i.ibb.co/R2M12Wy/image-search-1619907199371.jpg",
+    "name": "catgirl schoolgirl Seele💙",
+    "image": "https://i.imgur.com/qNp9vJZ.jpeg",
     "number": "#88"
   },
 {
-    "name": "Rita, Durandal, and Herrscher of the Void",
-    "image": "https://i.ibb.co/nBvwtk6/image-search-1619907205390.jpg",
+    "name": "Bronya and Delta",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/DeGrDeB.jpeg",
     "number": "#89"
   },
 {
-    "name": "a Christmas postcard",
-    "image": "https://i.ibb.co/hs1gPR9/image-search-1619907258279.png",
+    "name": "the two sisters, Fu Hua and Senti",
+    "color": "#C4D0E0",
+    "image": "https://i.imgur.com/tXnBRMg.jpeg",
     "number": "#90"
   },
 {
-    "name": "Office Bronya",
-    "image": "https://i.ibb.co/NNVLxcC/Bronya-Zaychik-full-4026394.png",
+    "name": "Parallel universe Sirin",
+    "color": "#A284D4",
+    "image": "https://i.imgur.com/GgLhgvT.jpeg",
     "number": "#91"
   },
 {
-    "name": "Kiana and Fu Hua summer shopping",
-    "image": "https://i.ibb.co/bFGGM8Y/image-search-1619907308158.jpg",
+    "name": "mechsuit Bronya",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/fVDc1Kd.jpeg",
     "number": "#92"
   },
 {
-    "name": "the Valkyies out for vacation",
-    "image": "https://i.ibb.co/PhgGw46/image-search-1619907311988.jpg",
+    "name": "Beautiful Bronya💙",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/f9cFK27.jpeg",
     "number": "#93"
   },
 {
-    "name": "Kiana and Mei",
-    "image": "https://i.ibb.co/y838S7F/image-search-1619907318174.jpg",
+    "name": "Bronya💙",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/L0JIZQp.png",
     "number": "#94"
   },
 {
-    "name": "Fu Hua and Kallen",
-    "image": "https://i.ibb.co/WPVPZT0/image-search-1619907322807.jpg",
+    "name": "cute Bronya💙",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/tEZqRf1.jpeg",
     "number": "#95"
   },
 {
-    "name": "Kiana and Mei",
-    "image": "https://i.ibb.co/XSjPJTY/image-search-1619907351399.jpg",
+    "name": "Bronya",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/gvNltaU.jpeg",
     "number": "#96"
   },
 {
-    "name": "passionate Kiana",
-    "image": "https://i.ibb.co/q1fsRYm/image-search-1619907356254.jpg",
+    "name": "Bronya",
+    "color": "#00C3FF",
+    "image": "https://i.imgur.com/wbl8dY0.jpeg",
     "number": "#97"
   },
 {
-    "name": "Kiana",
-    "image": "https://i.ibb.co/NjNpY9z/image-search-1619907367090.jpg",
+    "name": "Adult Bronya💙",
+    "image": "https://i.imgur.com/NbAJHHn.jpeg",
     "number": "#98"
   },
 {
-    "name": "Bronya 💙 Seele",
-    "image": "https://i.ibb.co/4YRr7nS/Bronya-and-Seele.jpg",
+    "name": "the love triangle",
+    "image": "https://i.imgur.com/73B9bbz.jpeg",
     "number": "#99"
   },
  {
-    "name": "Bronya💙",
-    "image": "https://i.ibb.co/3f6LWnj/image-search-1619907434210.jpg",
+    "name": "Rozaliya and Liliya",
+    "color": "#FF96D0",
+    "image": "https://i.imgur.com/8ZCvkCY.jpeg",
     "number": "#100"
   },
  {
