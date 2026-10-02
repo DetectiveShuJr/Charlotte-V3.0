@@ -33,7 +33,7 @@ async execute(interaction) {
     } else if (author.id === "575921413190451204" && targetUser.id === "303410762213490689") {
         resultEmbed = patEmbed
             .setAuthor({ name: `${author.username} is patting ${targetUser.username} gently`, iconURL: author.displayAvatarURL({ dynamic: true }) })
-            .setFooter({ text: `"Get some rest now Little One" Dad patted his Baby gently` })
+            .setFooter({ text: `"Get some rest now Little One"\nDad patted his Baby gently` })
     } else {
         resultEmbed = patEmbed
         .setAuthor({ name: `${author.username} gave ${targetUser.username} a pat!`, iconURL: author.displayAvatarURL({ dynamic: true }) })
