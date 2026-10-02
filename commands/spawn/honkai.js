@@ -7,7 +7,7 @@ module.exports = {
         .setDescription('A spawn command'),
     async execute(interaction) {
         try {
-            const randomIndex = Math.floor(Math.random() * Math.min(valkyries.length, 50));
+            const randomIndex = Math.floor(Math.random() * Math.min(valkyries.length));
             const { name: valkyrieName, image: valkyrieImage, number: valkyrieNumber, color: valkyrieColor } = valkyries[randomIndex];
 
             const valkyrieEmbed = new EmbedBuilder()
